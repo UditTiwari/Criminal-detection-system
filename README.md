@@ -1,4 +1,4 @@
-# Criminal-detection-systemIt 
+# Criminal-Detection-System
 It is Using face recognition method 
 Steps are following 
 First it Take 30 picture of that person for date base and assisgn ID to it 
